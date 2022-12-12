@@ -1,11 +1,9 @@
 body {background-color:green}
-<<<<<<< HEAD
-a{text-decoration: none;}
 .alcim {
     padding: 20px;
 background-color:darkseagreen;
 }
-=======
 a{text-decoration: none;
 color: red;}
->>>>>>> ac1a53dd21a5d9182ae9c8edccb1756fbf2f68e5
+div {border-style: solid blue 1px;
+margin-top: 10px; margin-bottom: 10px;}
